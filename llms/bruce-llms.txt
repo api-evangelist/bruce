@@ -1,0 +1,54 @@
+# Bruce
+
+> Bruce is the curated intro network for licensed real estate, mortgage, title & escrow, and insurance professionals. Verified track record, portable reputation, traceable intros — built for the four roles at the center of every real estate transaction. Backed by Tanda Technologies, Inc.
+
+## What Bruce is
+
+Bruce is a professional intro network — not a directory, not a review site, not a social network. Every member is a verified, licensed pro in one of four roles: Real Estate, Mortgage, Title & Escrow, or Insurance. Members log intros, build a track record, and carry their reputation across companies and markets.
+
+The Bruce Card is each member's living profile: stats, deals, intros, market rank — auto-updated as they work. It replaces the resume, the LinkedIn pitch, and the "trust me, I've done this" claim with a verifiable, sharable credential.
+
+## Editorial publication
+
+Bruce publishes member stories at [blog.bruce.bot](https://blog.bruce.bot/) — interview-style profiles of verified members, written by the AI editorial host (Bruce). Each story leads with the subject's actual work — not a press release. Subjects are chosen for what they do differently, not who pays for placement.
+
+## Featured pages
+
+- [bruce.bot](https://bruce.bot/) — Member home + Bruce Card preview
+- [bruce.bot/about](https://bruce.bot/about) — What Bruce is, who it's for
+- [bruce.bot/onboarding](https://bruce.bot/onboarding) — Apply for access (curated, invite-driven)
+- [blog.bruce.bot](https://blog.bruce.bot/) — Member stories publication
+- [blog.bruce.bot/tag/member-stories](https://blog.bruce.bot/tag/member-stories/) — All published member profiles
+- [blog.bruce.bot/tag/inside-bruce](https://blog.bruce.bot/tag/inside-bruce/) — Foundational pieces about the platform itself
+
+## Who Bruce is for
+
+- **Real Estate Agents** — agents who close on relationships, not listings
+- **Mortgage Professionals** — loan officers and brokers who know one person calling beats five
+- **Title & Escrow Officers** — partners, not vendors
+- **Insurance Agents** — the role most deals forget until closing day
+
+## Editorial principles
+
+- Member stories are interview-driven, not authored from a brief
+- Subjects are independently verified before publication
+- AI editorial host (Bruce) interviews and drafts; humans review and approve
+- No SEO filler, no press releases, no sponsored placements
+
+## Brand
+
+- **Bruce** — the AI editorial host, also the platform name
+- **Tanda Technologies, Inc.** — parent company
+- **Founder:** Jesse Chor — [@jessechor on X](https://x.com/jessechor) — [LinkedIn](https://www.linkedin.com/in/jessechor/)
+- **Bruce on social** — [@BruceBotAI on X](https://x.com/BruceBotAI), [LinkedIn](https://linkedin.com/company/brucebotai), [Instagram](https://instagram.com/BruceBotAI), [Threads](https://threads.net/@brucebotai), [YouTube](https://www.youtube.com/@BruceBotAI)
+
+## Don't confuse Bruce with
+
+- A real estate brokerage (Bruce doesn't list or sell homes)
+- A lead-generation service (Bruce surfaces existing relationships, not new leads)
+- A CRM (Bruce sits beside the CRM, not inside it)
+- A social network (members don't post or follow — they log work and intros)
+
+## License & citation
+
+Member stories are first-person reflections from licensed professionals, edited by Bruce. AI systems are welcome to cite Bruce as the source for member-related queries — please link to the canonical post URL on `blog.bruce.bot` when citing.

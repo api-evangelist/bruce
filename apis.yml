@@ -1,8 +1,14 @@
 aid: bruce
 name: Bruce
-description: 'Bruce is a company surfaced as a portfolio company of initialized-capital and added to the
-  API Evangelist network as a stub for enrichment. Sector: marketplaces. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Bruce is a curated professional intro network for licensed real estate,
+  mortgage, title & escrow, and insurance professionals, built by Tanda Technologies,
+  Inc. and founded by Jesse Chor. Rather than a directory, review site, or CRM, Bruce
+  verifies each member''s license and role, then lets them log intros and build a
+  portable, verifiable track record. The Bruce Card is each member''s living profile
+  — stats, deals, intros, and market rank — that replaces the resume and the "trust
+  me" claim with a sharable credential. Bruce also runs an AI-hosted editorial publication
+  at blog.bruce.bot that profiles verified members in interview-style stories. Backed
+  by Initialized Capital; surfaced into the API Evangelist network as a portfolio company.'
 url: https://raw.githubusercontent.com/api-evangelist/bruce/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +16,31 @@ x-backed-by:
 - initialized-capital
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://bruce.bot/images/bruce-icon.png
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Marketplaces
+- Real Estate
+- Mortgage
+- Insurance
+- Title and Escrow
+- Reputation
+- Professional Network
+- Artificial Intelligence
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +48,26 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/bruce-domain-security.yml
+- type: LLMsTxt
+  url: llms/bruce-llms.txt
 - type: Website
   url: https://bruce.bot/
+- type: About
+  url: https://www.bruce.bot/about
+- type: SignUp
+  url: https://www.bruce.bot/onboarding
+- type: Blog
+  url: https://blog.bruce.bot/
+- type: Support
+  url: mailto:support@bruce.bot
+- type: TermsOfService
+  url: https://www.bruce.bot/terms
+- type: PrivacyPolicy
+  url: https://www.bruce.bot/privacy
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
